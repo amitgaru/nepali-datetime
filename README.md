@@ -1,6 +1,6 @@
 # Nepali Datetime (Bikram Sambat Date & Nepal Time)
 
-The package inspired from Python's core `datetime` package that
+The package is inspired by Python's core `datetime` package that
 operates on top of Bikram Sambat (B.S) Date & Nepal Time (NPT) `+05:45`.
 
 > Supports: **Python 3.5+**
