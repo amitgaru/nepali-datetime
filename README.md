@@ -21,11 +21,11 @@ operates on top of Bikram Sambat (B.S) Date & Nepal Time (NPT) `+05:45`.
 >>> datetime.datetime.now()
 >>> nepali_datetime.datetime.now()
 
-# creating date object
+# creating a date object
 >>> datetime.date(2020, 9, 4)
 >>> nepali_datetime.date(2077, 5, 19)
 
-# creating datetime object
+# creating a datetime object
 >>> datetime.datetime(2020, 9, 4, 8, 26, 10, 123456)
 >>> nepali_datetime.datetime(2077, 5, 19, 8, 26, 10, 123456)
 
@@ -47,7 +47,7 @@ operates on top of Bikram Sambat (B.S) Date & Nepal Time (NPT) `+05:45`.
 >>> nepali_datetime.datetime(1990, 5, 10, 5, 10, 20) + datetime.timedelta(hours=3, minutes=15)
 # nepali_datetime.date(1990, 5, 10, 8, 25, 20)
 
-# convert B.S to A.D date and vice-versa
+# convert B.S to A.D date and vice versa
 >>> nepali_datetime.date(1999, 7, 25).to_datetime_date()
 # datetime.date(1942, 11, 10)
 >>> nepali_datetime.date.from_datetime_date(datetime.date(1942, 11, 10))
@@ -67,14 +67,14 @@ Sun  Mon  Tue  Wed  Thu  Fri  Sat
 
 ## Installation
 
-```shell
+``` shell
 $ pip install nepali-datetime
 ```
 
 ## Documentation
 
-Complete usage documentations can be found [here](https://amitgaru2.github.io/nepali-datetime/).
+Complete usage documentation can be found [here](https://amitgaru.github.io/nepali-datetime/).
 
 ## Contribution
 
-Any contributions are most welcome. Do check this guidelines [CONTRIBUTING.md](https://github.com/amitgaru2/nepali-datetime/blob/master/CONTRIBUTING.md) for code contribution.
+Any contributions are most welcome. Do check these guidelines [CONTRIBUTING.md](https://github.com/amitgaru2/nepali-datetime/blob/master/CONTRIBUTING.md) for code contribution.
