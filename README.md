@@ -77,4 +77,4 @@ Complete usage documentation can be found [here](https://amitgaru.github.io/nepa
 
 ## Contribution
 
-Any contributions are most welcome. Do check these guidelines [CONTRIBUTING.md](https://github.com/amitgaru2/nepali-datetime/blob/master/CONTRIBUTING.md) for code contribution.
+Any contributions are most welcome. Do check these guidelines [CONTRIBUTING.md](https://github.com/amitgaru/nepali-datetime/blob/master/CONTRIBUTING.md) for code contribution.
